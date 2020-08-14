@@ -3,19 +3,19 @@
 # Sean Moran
 
 
-## TECHNICAL SKILLS:
+## Technical Skills:
 -	Languages: Java, JavaScript, Python, C#
 -	Databases: SQL (T-SQL, MySQL), NoSQL (MongoDB)
 -	Frameworks: SpringBoot, AngularJS, Angular8, .NET, Flask
 -	Web: HTML, CSS, JavaScript
 - Cloud: AWS (EC2, S3, Lambda, DocumentDB), GCP (SPT)
 
-## EDUCATION:
+## Education:
 **James Madison University**			  		       
 *Bachelor of Business Administration in Computer Information Systems*           
 *May 2019*
 
-## PROJECTS:
+## Projects:
 
 ### Capital One Project Experience - Wipro Contractor
 *March 2020 - Present*

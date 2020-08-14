@@ -8,27 +8,27 @@
 *May 2019*
 
 ## Experience: 
-**Wipro Limited, Project Engineer,  Richmond, VA**
+**Wipro Limited - Project Engineer,  Richmond, VA**
 *June 2020 &ndash; Present*
 - Worked as a Project Engineer on various engagements, internal and external 
 
-**Hotel Madison, Valet, Harrisonburg, VA**
+**Hotel Madison - Valet, Harrisonburg, VA**
 *September 2018 &ndash; March 2019*
 - Valeted for the Hotel and Restaurant
 
-**Sheetz, Salesperson, Harrisonburg, VA**
+**Sheetz - Salesperson, Harrisonburg, VA**
 *February 2017 &ndash; December 2018*
 - Prepared food, stocked shelves, performed barista duties, and a myriad of other daily requirements 
 
-**AT&T Authorized Retailer, Sales Associate, Martinsville, VA**
+**AT&T Authorized Retailer - Sales Associate, Martinsville, VA**
 *June 2016 &ndash; January 2017*
 - Provided customer service and sales to Martinsville area AT&T customers
 
-**Food Lion, Grocery Stocker/Associate, Rocky Mount, VA**
+**Food Lion - Grocery Stocker/Associate, Rocky Mount, VA**
 *August 2014 &ndash; June 2016*
 - Stocked dairy, grocery, and frozen food departments several days a week
 
-**Little Caesars, Associate, Rocky Mount, VA**
+**Little Caesars - Associate, Rocky Mount, VA**
 *August 2013 &ndash; May 2014*
 - Professional pizza cutter, also performed drive through duties
 

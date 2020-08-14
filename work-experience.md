@@ -8,33 +8,28 @@
 *May 2019*
 
 ## Experience: 
-**Wipro Limited - Project Engineer -  Richmond, VA**
-*June 2020 - Present*
+**Wipro Limited, Project Engineer,  Richmond, VA**
+*June 2020 &ndash; Present*
 - Worked as a Project Engineer on various engagements, internal and external 
 
-**RainKing Solutions, Bethesda, MD**  
-*February 2017 &ndash; June 2017 (Short-Term Contract)*  
-- Developed pages and components to support a new major release (v4.0) for the RainKing platform
-- Collaborated with a third-party consulting agency to communicate design requests and revisions
-
-**Hotel Madison - Valet - Harrisonburg, VA**
-*September 2018 - March 2019*
+**Hotel Madison, Valet, Harrisonburg, VA**
+*September 2018 &ndash; March 2019*
 - Valeted for the Hotel and Restaurant
 
-**Sheetz - Salesperson - Harrisonburg, VA**
-*February 2017 - December 2018*
+**Sheetz, Salesperson, Harrisonburg, VA**
+*February 2017 &ndash; December 2018*
 - Prepared food, stocked shelves, performed barista duties, and a myriad of other daily requirements 
 
-**AT&T Authorized Retailer - Sales Associate - Martinsville, VA**
-*June 2016 - January 2017*
+**AT&T Authorized Retailer, Sales Associate, Martinsville, VA**
+*June 2016 &ndash; January 2017*
 - Provided customer service and sales to Martinsville area AT&T customers
 
-**Food Lion - Grocery Stocker/Associate - Rocky Mount, VA**
-*August 2014 - June 2016*
+**Food Lion, Grocery Stocker/Associate, Rocky Mount, VA**
+*August 2014 &ndash; June 2016*
 - Stocked dairy, grocery, and frozen food departments several days a week
 
-**Little Caesars - Associate - Rocky Mount, VA**
-*August 2013 - May 2014*
+**Little Caesars, Associate, Rocky Mount, VA**
+*August 2013 &ndash; May 2014*
 - Professional pizza cutter, also performed drive through duties
 
 

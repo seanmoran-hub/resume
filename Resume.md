@@ -43,4 +43,4 @@
 
 
 **Certifications**
-⦁	AWS Certified Developer (Associate) 			                  Mar 2020
+-	AWS Certified Developer (Associate) 			                  Mar 2020

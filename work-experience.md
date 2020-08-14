@@ -29,10 +29,12 @@
 - Provided customer service and sales to Martinsville area AT&T customers
 
 **Food Lion - Grocery Stocker/Associate, Rocky Mount, VA**
+
 *August 2014 &ndash; June 2016*
 - Stocked dairy, grocery, and frozen food departments several days a week
 
 **Little Caesars - Associate, Rocky Mount, VA**
+
 *August 2013 &ndash; May 2014*
 - Professional pizza cutter, also performed drive through duties
 

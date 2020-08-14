@@ -17,26 +17,26 @@
 **Hotel Madison - Harrisonburg, VA**
 *Valet*
 *September 2018 - March 2019*
-- 
+- Valeted for the Hotel and Restaurant
 
 **Sheetz - Harrisonburg, VA**
 *Salesperson*
 *February 2017 - December 2018*
-- 
+- Prepared food, stocked shelves, performed barista duties, and a myriad of other daily requirements 
 
 **AT&T Authorized Retailer - Martinsville, VA**
 *Sales Associate*
 *June 2016 - January 2017*
-- 
+- Provided customer service and sales to Martinsville area AT&T customers
 
 **Food Lion - Rocky Mount, VA**
 *Grocery Stocker/Associate*
 *August 2014 - June 2016*
-- 
+- Stocked dairy, grocery, and frozen food departments several days a week
 
 **Little Caesars - Rocky Mount, VA**
 *Associate*
 *August 2013 - May 2014*
-- 
+- Professional pizza cutter, also performed drive through duties
 
 

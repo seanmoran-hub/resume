@@ -12,6 +12,11 @@
 *June 2020 - Present*
 - Worked as a Project Engineer on various engagements, internal and external 
 
+**RainKing Solutions, Bethesda, MD**  
+*February 2017 &ndash; June 2017 (Short-Term Contract)*  
+- Developed pages and components to support a new major release (v4.0) for the RainKing platform
+- Collaborated with a third-party consulting agency to communicate design requests and revisions
+
 **Hotel Madison - Valet - Harrisonburg, VA**
 *September 2018 - March 2019*
 - Valeted for the Hotel and Restaurant

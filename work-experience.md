@@ -9,18 +9,22 @@
 
 ## Experience: 
 **Wipro Limited - Project Engineer,  Richmond, VA**
+
 *June 2020 &ndash; Present*
 - Worked as a Project Engineer on various engagements, internal and external 
 
 **Hotel Madison - Valet, Harrisonburg, VA**
+
 *September 2018 &ndash; March 2019*
 - Valeted for the Hotel and Restaurant
 
 **Sheetz - Salesperson, Harrisonburg, VA**
+
 *February 2017 &ndash; December 2018*
 - Prepared food, stocked shelves, performed barista duties, and a myriad of other daily requirements 
 
 **AT&T Authorized Retailer - Sales Associate, Martinsville, VA**
+
 *June 2016 &ndash; January 2017*
 - Provided customer service and sales to Martinsville area AT&T customers
 

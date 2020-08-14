@@ -8,7 +8,7 @@
 -	Databases: SQL (T-SQL, MySQL), NoSQL (MongoDB)
 -	Frameworks: SpringBoot, AngularJS, Angular8, .NET, Flask
 -	Web: HTML, CSS, JavaScript
-- Cloud: AWS (EC2, S3, Lambda, DocumentDB), GCP (SPT)
+- Cloud: AWS (EC2, S3, Lambda, DocumentDB), GCP (Speech To Text)
 
 ## Education:
 **James Madison University**			  		       

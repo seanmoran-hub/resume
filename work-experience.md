@@ -8,9 +8,7 @@
 *May 2019*
 
 ## Experience: 
-
-**Wipro Limited - Richmond, VA**
-*Project Engineer*
+**Wipro Limited - Project Engineer -  Richmond, VA**
 *June 2020 - Present*
 - Worked as a Project Engineer on various engagements, internal and external 
 

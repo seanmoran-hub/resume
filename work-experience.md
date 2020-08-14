@@ -9,8 +9,34 @@
 
 ## Experience: 
 
-**Wipro Limited**
+**Wipro Limited - Richmond, VA**
 *Project Engineer*
 *June 2020 - Present*
 - Worked as a Project Engineer on various engagements, internal and external 
-- Internal: developed an application 
+
+**Hotel Madison - Harrisonburg, VA**
+*Valet*
+*September 2018 - March 2019*
+- 
+
+**Sheetz - Harrisonburg, VA**
+*Salesperson*
+*February 2017 - December 2018*
+- 
+
+**AT&T Authorized Retailer - Martinsville, VA**
+*Sales Associate*
+*June 2016 - January 2017*
+- 
+
+**Food Lion - Rocky Mount, VA**
+*Grocery Stocker/Associate*
+*August 2014 - June 2016*
+- 
+
+**Little Caesars - Rocky Mount, VA**
+*Associate*
+*August 2013 - May 2014*
+- 
+
+

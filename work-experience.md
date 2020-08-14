@@ -14,28 +14,23 @@
 *June 2020 - Present*
 - Worked as a Project Engineer on various engagements, internal and external 
 
-**Hotel Madison - Harrisonburg, VA**
-*Valet*
+**Hotel Madison - Valet - Harrisonburg, VA**
 *September 2018 - March 2019*
 - Valeted for the Hotel and Restaurant
 
-**Sheetz - Harrisonburg, VA**
-*Salesperson*
+**Sheetz - Salesperson - Harrisonburg, VA**
 *February 2017 - December 2018*
 - Prepared food, stocked shelves, performed barista duties, and a myriad of other daily requirements 
 
-**AT&T Authorized Retailer - Martinsville, VA**
-*Sales Associate*
+**AT&T Authorized Retailer - Sales Associate - Martinsville, VA**
 *June 2016 - January 2017*
 - Provided customer service and sales to Martinsville area AT&T customers
 
-**Food Lion - Rocky Mount, VA**
-*Grocery Stocker/Associate*
+**Food Lion - Grocery Stocker/Associate - Rocky Mount, VA**
 *August 2014 - June 2016*
 - Stocked dairy, grocery, and frozen food departments several days a week
 
-**Little Caesars - Rocky Mount, VA**
-*Associate*
+**Little Caesars - Associate - Rocky Mount, VA**
 *August 2013 - May 2014*
 - Professional pizza cutter, also performed drive through duties
 

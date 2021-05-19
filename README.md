@@ -8,7 +8,7 @@
 -	Databases: SQL (T-SQL, MySQL), NoSQL (MongoDB)
 -	Frameworks: SpringBoot, AngularJS, Angular8, .NET, Flask
 -	Web: HTML, CSS, JavaScript
-- Cloud: AWS (EC2, S3, Lambda, DocumentDB), GCP (Speech To Text)
+-   Cloud: AWS (EC2, S3, Lambda, DocumentDB), GCP (Speech To Text)
 
 ## Education:
 **James Madison University**			  		       
@@ -19,10 +19,11 @@
 
 **Capital One Project Experience - Wipro Contractor**
 *March 2020 - Present*
--	Used SpringBoot to create an API microservice
--	Wrote unit tests in JUnit, functional tests using Postman/Newman
--	Created a Kafka Producer for streaming updates
--	Created Failover Procedures for Application Disaster Recovery 
+-   Hands on AWS Experience with RDS + ECS/EC2
+-   Performed index analysis on postgres dbs to test usage + performance for queries
+-	SpringBoot experience: created/updated API microservices with multiple consumers
+-	Experience in Cucumber and Postman for functional test collections, JUnit for unit tests
+-	Experience with Kafka producers + consumers, streaming components
 -	Familiarized with creating/adjusting Jenkins build stages for different testing stages and deployment
 
 **ringR - Wipro**											 
@@ -30,9 +31,8 @@
 -	Telephony on Cloud (Cloud-native services to host call center infrastructure)
 -	Created features like Realtime Transcription, Realtime Sentiment Analysis using WebSockets, Node.js, and angularjs
 -	Implemented Automatic Call Distribution and worker Session handling
--	Developed backend APIs in Python using a Flask Server
 -	Lambda functions for event-based call processing
-- Sentiment Analysis using Python and TextBlob
+-   Sentiment Analysis using Python and TextBlob
 
 **High School to Workplace Pipeline - JMU Capstone Project**		          
 *January 2019 – May 2019*

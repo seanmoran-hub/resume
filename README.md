@@ -18,7 +18,7 @@
 
 **Pipeline 2 [Project] - Backend Engineer - Tactiq**
 _November 14, 2021 - Present_
-	Ticketing System for Direct Store Delivery\
+	Ticketing System for Direct Store Delivery
 - Responsible for designing and architecting most new features
 - Setup logging, monitoring, and alerting for Production lambdas + Glue jobs
 - Extensive AWS Experience using Dynamo, SQS/SNS, Lambda, API Gateway

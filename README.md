@@ -4,11 +4,10 @@
 
 
 ## Technical Skills:
--	Languages: Java, JavaScript, Python, C#
--	Databases: SQL (T-SQL, MySQL), NoSQL (MongoDB)
+-	Languages: Primarily Python, Java
+-	Databases: NoSQL (DynamoDB), SQL (T-SQL, MySQL), 
 -	Frameworks: SpringBoot, AngularJS, Angular8, .NET, Flask
--	Web: HTML, CSS, JavaScript
--   Cloud: AWS (EC2, S3, Lambda, DocumentDB), GCP (Speech To Text)
+-   Cloud: AWS - Dynamo, SQS/SNS, S3, Cognito, CW, Lambda, Glue
 
 ## Education:
 **James Madison University**			  		       
@@ -17,28 +16,31 @@
 
 ## Projects:
 
+**Pipeline 2 [Project] - Backend Engineer - Tactiq**
+_November 14, 2021 - Present_
+	Ticketing System for Direct Store Delivery\
+- Responsible for designing and architecting most new features
+- Setup logging, monitoring, and alerting for Production lambdas + Glue jobs
+- Extensive AWS Experience using Dynamo, SQS/SNS, Lambda, API Gateway
+- Maintained/created relationships with external vendors to reach agreement on shared solutions
+- Responsible for Production releases/QA/hotfixes/most support-related queries
+
 **Capital One Project Experience - Wipro Contractor**
-*March 2020 - Present*
--   Hands on AWS Experience with RDS + ECS/EC2
--   Performed index analysis on postgres dbs to test usage + performance for queries
+*March 2020 - November 1, 2021*
 -	SpringBoot experience: created/updated API microservices with multiple consumers
 -	Experience in Cucumber and Postman for functional test collections, JUnit for unit tests
 -	Experience with Kafka producers + consumers, streaming components
--	Familiarized with creating/adjusting Jenkins build stages for different testing stages and deployment
 
 **ringR - Wipro**											 
 *July 2019 - March 2020*
 -	Telephony on Cloud (Cloud-native services to host call center infrastructure)
 -	Created features like Realtime Transcription, Realtime Sentiment Analysis using WebSockets, Node.js, and angularjs
--	Implemented Automatic Call Distribution and worker Session handling
--	Lambda functions for event-based call processing
 -   Sentiment Analysis using Python and TextBlob
 
 **High School to Workplace Pipeline - JMU Capstone Project**		          
 *January 2019 – May 2019*
 -	Architected and developed an application with the goal of helping high school students get relevant work experience before graduating
 -	Frontend/Backend was creating using .NET Framework with C#
--	Used Amazon RDS for storing of different schemas and information
 -	Created system/database design and information flow models for application development
 
 
